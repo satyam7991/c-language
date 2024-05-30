@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-    printf("hi");
+    printf("satyam");
     int flag=0;
     int data[10]={12,56,59,78,56,57,56,35,60,14};
    
@@ -12,7 +12,7 @@ int main ()
                
                 if(flag==0) 
                 {
-                    printf("Value of %d found at",data[i]);
+                    printf("Value of found at %d ",data[i]);
                     printf(" position %d",i); 
                     
                 }                
