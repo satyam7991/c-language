@@ -13,6 +13,7 @@ int main ()
     for(int i=0;i<N;i++){
         printf("%d ",data[i]);
     }
+    
     for(int i=N+1;i>index;i--)
     {
         data[i]=data[i-1];
