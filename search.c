@@ -6,7 +6,7 @@ int main ()
     int flag=0;
     for(int i=0;i<10;i++){
         if(data[i]==search){
-            printf("Found at Index %d",i+1);
+            printf("Found at Index: %d",i+1);
             flag=1;
             break;
         }
