@@ -32,7 +32,12 @@ void sub (int n1, int n2)
 }
 void div ()
 {
-   
+    int n1, n2;
+    printf("Enter number1=>");
+    scanf("%d",&n1);
+    printf("Enter number2=>");
+    scanf("%d",&n2);
+    printf("Division of two number is =%d\n",(n1/n2));
 }
 
 
