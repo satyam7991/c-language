@@ -22,7 +22,3 @@ void mul1(){
     scanf("%d",&n2);
     printf("Multiply =%d",(n1*n2));
 }
-// int mul (int n1, int n2) //formal parameter/argument
-// {
-//      return n1*n2;
-// }
