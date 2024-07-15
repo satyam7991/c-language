@@ -8,3 +8,4 @@ int main ()
     printf("Check =%d, Normal=%d",check,normal);
     return 0;
 }
+//this is enum keyword
